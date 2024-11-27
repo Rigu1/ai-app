@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional yarn cache directory
+.yarn/cache
+
+# Optional eslint cache
+.eslintcache
+
+# roop
+roop/
+
+.prettierrc
+
+venv/
